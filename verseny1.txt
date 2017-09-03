@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+    <ResultCode>0</ResultCode>
+    <Teams>
+        <Team>
+            <Name>teamA</Name>
+            <Scores>
+                <Score>1#5#3</Score>
+                <Score>2#1#4</Score>
+            </Scores>
+        </Team>
+        <Team>
+            <Name>teamB</Name>
+            <Scores>
+                <Score>4#5#4</Score>
+                <Score>2#3#4</Score>
+            </Scores>
+        </Team>
+        <Team>
+            <Name>teamC</Name>
+            <Scores>
+                <Score>5#5</Score>
+                <Score>5#4</Score>
+            </Scores>
+        </Team>
+    </Teams>
+</Result>
